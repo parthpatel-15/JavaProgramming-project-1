@@ -1,7 +1,7 @@
 # JavaProgramming-project-1
 
 This GitHub repository contains Java programs organized into three exercises:
-
+The exercises cover various Java programming concepts, including user input, arrays, random number generation, and method overloading. Each exercise is contained within its respective package in the src directory.
 # Exercise-1: Multiple-Choice Quiz
 
 Driver.java: Main class to run the program. Creates an instance of the Test class and calls its inputAns method.
@@ -15,4 +15,4 @@ Lotto.java: Class that simulates a lottery game. Generates a random array, allow
 # Exercise-3: Method Overloading
 
 Overloaded.java: Demonstrates method overloading with three static methods, each finding the maximum of two, three, or four integers.
-The exercises cover various Java programming concepts, including user input, arrays, random number generation, and method overloading. Each exercise is contained within its respective package in the src directory.
+
